@@ -4,5 +4,6 @@ function polintrom(sent) {
   
   return console.log(sent.split("").reverse().join(""));
 }
-polintrom("yoB dooG ma I","and" ,"I am a Good Boy")
+
+polintrom(`yoB dooG ma I`)
 // polintrom();
